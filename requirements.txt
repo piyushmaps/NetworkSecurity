@@ -2,3 +2,5 @@ python-dotenv
 pandas
 numpy
 pymongo
+certifi 
+## -e . it will conver the whole project into package
